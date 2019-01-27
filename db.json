@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "my first stream i created",
+      "id": 1
+    },
+    {
+      "title": "checking",
+      "description": "let us check what will do if i do it",
+      "id": 2
+    },
+    {
+      "title": "test userId",
+      "description": "i need to test my new freate ",
+      "userId": "117182108573799204439",
+      "id": 3
+    },
+    {
+      "title": "unexpected behavier",
+      "description": "dont expect thet",
+      "userId": "117182108573799204439",
+      "id": 4
+    },
+    {
+      "title": "try",
+      "description": "one more try",
+      "userId": "117182108573799204439",
+      "id": 5
+    },
+    {
+      "title": "sdgdxfhxdfhxgh",
+      "description": "xdfhxfgjcfgjcghkghkvhjk",
+      "userId": "117182108573799204439",
+      "id": 6
+    }
+  ]
+}
